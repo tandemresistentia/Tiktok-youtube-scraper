@@ -20,7 +20,7 @@ echo %number% > "%filename%"
 echo Number increased to %number%
 
 cd /d "C:\Users\Death\Desktop\Projects\Main Uploader"
-
+git pull origin main
 git init
 
 git add .
